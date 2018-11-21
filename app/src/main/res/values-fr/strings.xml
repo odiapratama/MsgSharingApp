@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MsgSharingApp</string>
+
+    <string name="btnShowToast">montrer le pain grillé</string>
+    <string name="btnMoveToNextActivity">Passer à l activité suivante</string>
+    <string name="btnShareToApps">Partager avec d autres applications</string>
+    <string name="etEnterMessage">Entrez un message</string>
+    <string name="btnListView">List Demo View</string>
+</resources>
